@@ -1,0 +1,41 @@
+C:\Users\akros\Desktop\New folder (2)\TestWindowsForms\TestWindowsForms\bin\Debug\TestWindowsForms.exe
+C:\Users\akros\Desktop\New folder (2)\TestWindowsForms\TestWindowsForms\bin\Debug\TestWindowsForms.pdb
+C:\Users\akros\Desktop\New folder (2)\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.Properties.Resources.resources
+C:\Users\akros\Desktop\New folder (2)\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.csproj.GenerateResource.cache
+C:\Users\akros\Desktop\New folder (2)\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\akros\Desktop\New folder (2)\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.exe
+C:\Users\akros\Desktop\New folder (2)\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.pdb
+C:\Users\akros\Desktop\New folder (2)\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.Form1.resources
+C:\Users\akros\Desktop\New folder (2)\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.UserControl1.resources
+C:\Users\akros\Desktop\New folder (2)\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.UserControl2.resources
+C:\Users\akros\Desktop\New folder (2)\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.UserControl3.resources
+C:\Users\akros\Desktop\New folder (2)\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.UserControl4.resources
+C:\Users\akros\Desktop\New folder (2)\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.UserControl5.resources
+C:\Users\akros\Desktop\New folder (2)\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.UserControl6.resources
+C:\Users\akros\Desktop\New folder (2)\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.UserControl7.resources
+C:\Users\akros\Desktop\New folder (2)\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.csprojAssemblyReference.cache
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\bin\Debug\TestWindowsForms.exe
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\bin\Debug\TestWindowsForms.pdb
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.Form1.resources
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.Properties.Resources.resources
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.UserControl1.resources
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.UserControl2.resources
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.UserControl3.resources
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.UserControl4.resources
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.UserControl5.resources
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.UserControl6.resources
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.UserControl7.resources
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.csproj.GenerateResource.cache
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.exe
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.pdb
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\bin\Debug\Json.dll
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\bin\Debug\Json.pdb
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.csproj.CopyComplete
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\akros\Documents\GitHub\Nagpur-Devp01\TestWindowsForms\TestWindowsForms\obj\Debug\TestWindowsForms.csprojAssemblyReference.cache
