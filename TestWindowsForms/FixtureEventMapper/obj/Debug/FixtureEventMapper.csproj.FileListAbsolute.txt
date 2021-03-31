@@ -1,0 +1,16 @@
+C:\Users\jabir\Source\Repos\Nagpur-Dev02\TestWindowsForms\FixtureEventMapper\bin\Debug\FixtureEventMapper.exe.config
+C:\Users\jabir\Source\Repos\Nagpur-Dev02\TestWindowsForms\FixtureEventMapper\bin\Debug\FixtureEventMapper.exe
+C:\Users\jabir\Source\Repos\Nagpur-Dev02\TestWindowsForms\FixtureEventMapper\bin\Debug\FixtureEventMapper.pdb
+C:\Users\jabir\Source\Repos\Nagpur-Dev02\TestWindowsForms\FixtureEventMapper\obj\Debug\MainWindow.g.cs
+C:\Users\jabir\Source\Repos\Nagpur-Dev02\TestWindowsForms\FixtureEventMapper\obj\Debug\App.g.cs
+C:\Users\jabir\Source\Repos\Nagpur-Dev02\TestWindowsForms\FixtureEventMapper\obj\Debug\FixtureEventMapper_MarkupCompile.cache
+C:\Users\jabir\Source\Repos\Nagpur-Dev02\TestWindowsForms\FixtureEventMapper\obj\Debug\FixtureEventMapper_MarkupCompile.lref
+C:\Users\jabir\Source\Repos\Nagpur-Dev02\TestWindowsForms\FixtureEventMapper\obj\Debug\MainWindow.baml
+C:\Users\jabir\Source\Repos\Nagpur-Dev02\TestWindowsForms\FixtureEventMapper\obj\Debug\FixtureEventMapper.g.resources
+C:\Users\jabir\Source\Repos\Nagpur-Dev02\TestWindowsForms\FixtureEventMapper\obj\Debug\FixtureEventMapper.Properties.Resources.resources
+C:\Users\jabir\Source\Repos\Nagpur-Dev02\TestWindowsForms\FixtureEventMapper\obj\Debug\FixtureEventMapper.csproj.GenerateResource.cache
+C:\Users\jabir\Source\Repos\Nagpur-Dev02\TestWindowsForms\FixtureEventMapper\obj\Debug\FixtureEventMapper.exe
+C:\Users\jabir\Source\Repos\Nagpur-Dev02\TestWindowsForms\FixtureEventMapper\obj\Debug\FixtureEventMapper.pdb
+C:\Users\jabir\source\repos\Nagpur-Dev02\TestWindowsForms\FixtureEventMapper\obj\Debug\FixtureEventMapper.csprojResolveAssemblyReference.cache
+C:\Users\jabir\source\repos\Nagpur-Dev02\TestWindowsForms\FixtureEventMapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jabir\source\repos\Nagpur-Dev02\TestWindowsForms\FixtureEventMapper\bin\Debug\Newtonsoft.Json.xml
